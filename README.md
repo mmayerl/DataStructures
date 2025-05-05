@@ -1,5 +1,16 @@
 # Repository
-Dieses Repository enthält Musterimplementationen für die Datenstrukturen, welche im Kurs _Grundlagen Algorithmen und Daten_ besprochen wurden.
+Dieses Repository enthält Musterimplementationen für die Datenstrukturen, welche im Kurs _Grundlagen Algorithment und Daten_ besprochen wurden.
+
+# Bugs
+Sollten Sie einen Fehler im Code dieses Repositories finden, melden Sie diesen mit folgenden Informationen:
+1. Wo befindet sich der Fehler?
+2. Welches Verhalten hat der Code aktuell, und welches Verhalten sollte er korrekterweise haben? Seien Sie hier möglichst detailliert. Geben Sie mindestens ein konkretes Beispiel, bei dem der Fehler auftritt.
+3. Was muss geändert werden, damit der Bug behoben wird (ohne andere Bugs zu verursachen)?
+
+Sie dürfen, wenn Sie sich auf die Suche nach Bugs machen wollen, gerne in Teams arbeiten. Dabei gelten die gleichen Regeln wie für Teamarbeit bei Aufgabenblättern. Für eine korrekte und vollständige Meldung können Sie bis zu 5 Bonuspunkte erhalten. Nur das erste Team, das einen bestimmten Bug meldet, bekommt Punkte dafür.
 
 ## Inhalt
+- [Dynamic Array](DynamicArray.cs)
 - [Singly-linked List](LinkedList.cs) 
+- [Doubly-linked List](DoublyLinkedList.cs) 
+
