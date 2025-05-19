@@ -15,6 +15,7 @@ Sie dürfen, wenn Sie sich auf die Suche nach Bugs machen wollen, gerne in Teams
 - [Dynamic Array](DynamicArray.cs)
 - [Singly-linked List](LinkedList.cs) 
 - [Doubly-linked List](DoublyLinkedList.cs) 
+- [Binary (Min-)Heap](BinaryMinHeap.cs) 
 
 ## Inhalt: Hausübungen
 - [Aufgabenblatt 1](sheet1.md)
