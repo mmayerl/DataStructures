@@ -19,3 +19,6 @@ Sie dürfen, wenn Sie sich auf die Suche nach Bugs machen wollen, gerne in Teams
 
 ## Inhalt: Hausübungen
 - [Aufgabenblatt 1](sheet1.md)
+
+## Probeprüfung
+[Lösung Praxisteil](AlgoDatMockExam_Solution.zip)
